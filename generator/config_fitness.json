@@ -11,7 +11,7 @@
   "hires_scale": 1.5,
   "hires_denoising_strength": 0.5,
   "refiner": false,
-  "batch_size": 1,
+  "batch_size": 20,
   "total_images": 1,
   "seed": 1003723026,
   "negative_prompt": "nsfw, nude, lowres, cartoon, text, logo, watermark, ugly, deformed, extra fingers, poorly drawn hands, distorted face, blurry, noisy, overexposed, underexposed, messy background",
